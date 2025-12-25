@@ -56,7 +56,7 @@ streamlit run frontend.py
 ## Технологии
 ### Бэкенд (Backend):
 * Фреймворк: FastAPI (Python 3.9+)
-* База данных: SQLite (файл repair_requests.db)
+* База данных: SQLite (файл repair_service.db)
 * Аутентификация: JWT (JSON Web Tokens)
 * ORM: SQLAlchemy (опционально)
 * Валидация: Pydantic
@@ -69,7 +69,7 @@ streamlit run frontend.py
 * Стили: Встроенные компоненты Streamlit
 
 ### База данных (SQLite):
-* Файл: repair_requests.db
+* Файл: repair_service.db
 
 ## Основные функции
 1. Аутентификация и роли:
